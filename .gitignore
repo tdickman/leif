@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
